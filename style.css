@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+}
+
+canvas{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+audio{
+    display: none;
+    width: 0;
+    height: 0;
+}
